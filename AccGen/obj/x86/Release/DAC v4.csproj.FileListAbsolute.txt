@@ -1,0 +1,18 @@
+C:\Users\fabia\Desktop\test\bin\Release\DAC v4.exe
+C:\Users\fabia\Desktop\test\bin\Release\DAC v4.pdb
+C:\Users\fabia\Desktop\test\bin\Release\MetroFramework.dll
+C:\Users\fabia\Desktop\test\bin\Release\MetroFramework.Fonts.dll
+C:\Users\fabia\Desktop\test\bin\Release\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\fabia\Desktop\test\bin\Release\Newtonsoft.Json.dll
+C:\Users\fabia\Desktop\test\bin\Release\Newtonsoft.Json.pdb
+C:\Users\fabia\Desktop\test\bin\Release\Newtonsoft.Json.xml
+C:\Users\fabia\Desktop\test\bin\Release\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\fabia\Desktop\test\obj\x86\Release\DAC_v4.Properties.Resources.resources
+C:\Users\fabia\Desktop\test\obj\x86\Release\DAC_v4.DAC_v4.DAC.resources
+C:\Users\fabia\Desktop\test\obj\x86\Release\DAC v4.csproj.GenerateResource.cache
+C:\Users\fabia\Desktop\test\obj\x86\Release\DAC v4.csproj.CoreCompileInputs.cache
+C:\Users\fabia\Desktop\test\obj\x86\Release\DAC v4.csproj.CopyComplete
+C:\Users\fabia\Desktop\test\obj\x86\Release\DAC v4.exe
+C:\Users\fabia\Desktop\test\obj\x86\Release\DAC v4.pdb
+C:\Users\fabia\Desktop\test\bin\Release\DAC v4.exe.CodeAnalysisLog.xml
+C:\Users\fabia\Desktop\test\bin\Release\DAC v4.exe.lastcodeanalysissucceeded
