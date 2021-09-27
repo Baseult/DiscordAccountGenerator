@@ -1,2 +1,2 @@
 # DiscordAccountGenerator
-My Discord: https://discord.gg/eRSktWTsCm
+My Discord: https://discord.gg/Tr4YZDKneX
